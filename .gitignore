@@ -1,2 +1,3 @@
 backend/venv
 db.sqlite3
+migrations
